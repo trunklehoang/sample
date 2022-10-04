@@ -1,0 +1,19 @@
+{
+  "name": "trunk",
+  "version": "1.0.1",
+  "description": "Trung 04-10-2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trunklehoang/sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trunklehoang/sample/issues"
+  },
+  "homepage": "https://github.com/trunklehoang/sample#readme"
+}
